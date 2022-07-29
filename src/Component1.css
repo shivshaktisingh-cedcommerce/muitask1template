@@ -1,0 +1,141 @@
+#component1{
+    width:100%;
+    min-height:63vw;
+    background-color:#7ECAD0;
+    padding:1vw;
+}
+#navbar{
+    width:100%;
+    display:flex;
+}
+#navlogo{
+    width:25%;
+    float:left;
+    margin-top:2%;
+    margin-left:1%;
+   
+}
+#logo{
+    width:100%;
+    min-height:6vw;
+}
+#navpages{
+    width:65%;
+    display:flex;
+}
+#solutionsnav{
+    width:100%;
+    margin-left:5%;
+    margin-top:9%;
+    cursor:pointer;
+    padding:1vw;
+    max-height:1.8vw;
+  
+    
+}
+#solutionsnav:hover{
+    background-color: #FD672D;
+    
+}
+#productnav{
+    width:100%;
+    margin-left:2%;
+    margin-top:9%;
+    cursor:pointer;
+    padding:1vw;
+    max-height:1.8vw;
+
+}
+#productnav:hover{
+    background-color: #FD672D;
+    
+}
+#resourcesnav{
+    width:100%;
+    margin-left:2%;
+    margin-top:9%;
+    cursor:pointer;
+    padding:1vw;
+    max-height:1.8vw;
+
+}
+#resourcesnav:hover{
+    background-color: #FD672D;
+    
+}
+#companynav{
+    width:100%;
+    margin-left:2%;
+    margin-top:9%;
+    cursor:pointer;
+    padding:1vw;
+    max-height:1.8vw;
+
+}
+#companynav:hover{
+    background-color: #FD672D;
+    
+}
+#getnav{
+    width:100%;
+    margin-left:2%;
+    margin-top:9%;
+    cursor:pointer;
+    padding:1vw;
+    max-height:2.8vw;
+
+}
+#getnav:hover{
+    background-color: #FD672D;
+    
+}
+#searchicon{
+    font-weight:bold;
+    margin-top:9%;
+    margin-left:2%;
+    color:white;
+    padding-top:1vw;
+    padding-right:none;
+
+}
+#searchnav{
+  
+    margin-top:9%;
+    padding:1vw;
+    padding-left:none;
+}
+#contentandinput{
+    display:flex;
+}
+#content{
+    width:48%;
+    margin-top:8%;
+    margin-left:4%;
+    text-align: left;
+}
+#content3{
+    margin-top:2%;
+}
+#input{
+    width:50%;
+
+    margin-top:9%;
+    margin-left:4%;
+}
+#input2{
+    margin-top:3%;
+}
+
+#input3{
+    margin-top:3%;
+}
+#input4{
+    margin-top:3%;
+}
+#input5{
+    margin-top:3%;
+}
+#input6{
+    margin-top:4%;
+ 
+}
